@@ -1,0 +1,42 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "terno",
+      "preco": 100,
+      "promocao": 20,
+      "descricao": "terno listrado",
+      "formasPagamento": {
+        "tipo": "parcelado",
+        "quantidade": 20,
+        "juros": 3
+      },
+      "entrega": "frete gratis"
+    },
+    {
+      "id": 99,
+      "nome": "camisa",
+      "preco": 100,
+      "promocao": 20,
+      "descricao": "camisa xadrez",
+      "formaPagamento": {
+        "tipo": "parcelado",
+        "quantidade": 20,
+        "juros": 3
+      },
+      "entrega": "frete gratis"
+    },
+    {
+      "id": 55,
+      "nome": "gravata de bolinha",
+      "preco": 10,
+      "promocao": 20,
+      "descricao": "gravata de bolinha listrada",
+      "formasPagamento": {
+        "tipo": "parcelado",
+        "quantidade": 20,
+        "juros": 3
+      }
+    }
+  ]
+}
